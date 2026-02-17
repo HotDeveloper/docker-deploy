@@ -229,7 +229,7 @@
     <section id="contato" class="contact">
         <div class="container">
             <div class="section-header">
-                <span class="section-label">Contato Dev</span>
+                <span class="section-label">Contato Developer</span>
                 <h2 class="section-title">Entre em <span class="highlight">Contato</span></h2>
                 <p class="section-subtitle">Estamos prontos para ajudar você a alcançar seus objetivos</p>
             </div>
