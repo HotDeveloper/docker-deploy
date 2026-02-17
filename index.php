@@ -1,15 +1,19 @@
 <!DOCTYPE html>
 <html lang="pt">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Consultório Clínico Saúde e Vida Longa | Emagreça Sem Dieta</title>
-    <meta name="description" content="Emagreça sem dieta e sem exercícios físicos! Programa de emagrecimento definitivo com acompanhamento clínico profissional em Quelimane.">
+    <meta name="description"
+        content="Emagreça sem dieta e sem exercícios físicos! Programa de emagrecimento definitivo com acompanhamento clínico profissional em Quelimane.">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap"
+        rel="stylesheet">
     <link rel="stylesheet" href="styles.css">
 </head>
+
 <body>
     <!-- Header -->
     <header class="header">
@@ -46,10 +50,12 @@
                         <span>Programa de Emagrecimento Definitivo</span>
                     </div>
                     <h1 class="hero-title">
-                        Emagreça <span class="highlight">SEM dieta</span> e <span class="highlight">SEM exercícios físicos!</span>
+                        Emagreça <span class="highlight">SEM dieta</span> e <span class="highlight">SEM exercícios
+                            físicos!</span>
                     </h1>
                     <p class="hero-description">
-                        Arranca o Programa de Emagrecimento Definitivo com acompanhamento clínico profissional. Resultados reais e duradouros para uma vida mais saudável.
+                        Arranca o Programa de Emagrecimento Definitivo com acompanhamento clínico profissional.
+                        Resultados reais e duradouros para uma vida mais saudável.
                     </p>
                     <div class="hero-features">
                         <div class="feature-item">
@@ -95,7 +101,9 @@
         </div>
         <div class="hero-wave">
             <svg viewBox="0 0 1440 120" fill="none" xmlns="http://www.w3.org/2000/svg">
-                <path d="M0 120L60 110C120 100 240 80 360 70C480 60 600 60 720 65C840 70 960 80 1080 85C1200 90 1320 90 1380 90L1440 90V120H1380C1320 120 1200 120 1080 120C960 120 840 120 720 120C600 120 480 120 360 120C240 120 120 120 60 120H0Z" fill="white"/>
+                <path
+                    d="M0 120L60 110C120 100 240 80 360 70C480 60 600 60 720 65C840 70 960 80 1080 85C1200 90 1320 90 1380 90L1440 90V120H1380C1320 120 1200 120 1080 120C960 120 840 120 720 120C600 120 480 120 360 120C240 120 120 120 60 120H0Z"
+                    fill="white" />
             </svg>
         </div>
     </section>
@@ -115,10 +123,12 @@
                     <span class="section-label">Sobre Nós</span>
                     <h2 class="section-title">Sua Saúde em <span class="highlight">Boas Mãos</span></h2>
                     <p class="about-description">
-                        O <strong>Consultório Clínico Saúde e Vida Longa</strong> é dedicado a ajudar você a alcançar seus objetivos de saúde e bem-estar de forma natural e sustentável.
+                        O <strong>Consultório Clínico Saúde e Vida Longa</strong> é dedicado a ajudar você a alcançar
+                        seus objetivos de saúde e bem-estar de forma natural e sustentável.
                     </p>
                     <p class="about-description">
-                        Nosso programa de emagrecimento é desenvolvido por profissionais qualificados, focado em resultados duradouros sem a necessidade de dietas restritivas ou exercícios intensos.
+                        Nosso programa de emagrecimento é desenvolvido por profissionais qualificados, focado em
+                        resultados duradouros sem a necessidade de dietas restritivas ou exercícios intensos.
                     </p>
                     <div class="about-stats">
                         <div class="stat-item">
@@ -153,14 +163,16 @@
                         <span>🍽️</span>
                     </div>
                     <h3 class="benefit-title">Sem Dietas Restritivas</h3>
-                    <p class="benefit-text">Diga adeus às dietas frustrantes. Nosso método não exige restrições alimentares extremas.</p>
+                    <p class="benefit-text">Diga adeus às dietas frustrantes. Nosso método não exige restrições
+                        alimentares extremas.</p>
                 </div>
                 <div class="benefit-card">
                     <div class="benefit-icon">
                         <span>🏃</span>
                     </div>
                     <h3 class="benefit-title">Sem Exercícios Intensos</h3>
-                    <p class="benefit-text">Resultados sem precisar passar horas na academia. Adeus aos exercícios cansativos!</p>
+                    <p class="benefit-text">Resultados sem precisar passar horas na academia. Adeus aos exercícios
+                        cansativos!</p>
                 </div>
                 <div class="benefit-card">
                     <div class="benefit-icon">
@@ -199,7 +211,8 @@
         <div class="container">
             <div class="cta-content">
                 <h2 class="cta-title">Pronto para Transformar sua Vida?</h2>
-                <p class="cta-text">Não espere mais para começar sua jornada de emagrecimento. As vagas são limitadas!</p>
+                <p class="cta-text">Não espere mais para começar sua jornada de emagrecimento. As vagas são limitadas!
+                </p>
                 <div class="cta-buttons">
                     <a href="tel:+258861661018" class="btn btn-white btn-large">
                         <span>📞 Ligar Agora</span>
@@ -216,7 +229,7 @@
     <section id="contato" class="contact">
         <div class="container">
             <div class="section-header">
-                <span class="section-label">Contato</span>
+                <span class="section-label">Contato Dev</span>
                 <h2 class="section-title">Entre em <span class="highlight">Contato</span></h2>
                 <p class="section-subtitle">Estamos prontos para ajudar você a alcançar seus objetivos</p>
             </div>
@@ -230,7 +243,8 @@
                     <div class="contact-card">
                         <div class="contact-icon">📞</div>
                         <h3>Telefone</h3>
-                        <p><a href="tel:+258861661018">86 166 1018</a><br><a href="tel:+258869822157">86 982 2157</a></p>
+                        <p><a href="tel:+258861661018">86 166 1018</a><br><a href="tel:+258869822157">86 982 2157</a>
+                        </p>
                     </div>
                     <div class="contact-card">
                         <div class="contact-icon">💬</div>
@@ -244,13 +258,9 @@
                     </div>
                 </div>
                 <div class="contact-map">
-                    <iframe 
-                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3839.5!2d36.8889!3d-17.8765!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMTfCsDUyJzM1LjQiUyAzNsKwNTMnMjAuMCJF!5e0!3m2!1spt!2smz!4v1" 
-                        width="100%" 
-                        height="100%" 
-                        style="border:0;" 
-                        allowfullscreen="" 
-                        loading="lazy" 
+                    <iframe
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3839.5!2d36.8889!3d-17.8765!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMTfCsDUyJzM1LjQiUyAzNsKwNTMnMjAuMCJF!5e0!3m2!1spt!2smz!4v1"
+                        width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy"
                         referrerpolicy="no-referrer-when-downgrade">
                     </iframe>
                 </div>
@@ -265,7 +275,8 @@
                 <div class="footer-brand">
                     <img src="images/logo-icon.png" alt="Logo" class="footer-logo">
                     <h3>Consultório Clínico<br>Saúde e Vida Longa</h3>
-                    <p>Emagreça sem dieta e sem exercícios físicos. Resultados reais com acompanhamento clínico profissional.</p>
+                    <p>Emagreça sem dieta e sem exercícios físicos. Resultados reais com acompanhamento clínico
+                        profissional.</p>
                 </div>
                 <div class="footer-links">
                     <h4>Links Rápidos</h4>
@@ -310,11 +321,14 @@
                 <button type="button" class="modal-close" aria-label="Fechar" data-modal-close>×</button>
             </div>
             <div class="modal-tabs" role="tablist" aria-label="Menu">
-                <button type="button" class="modal-tab is-active" role="tab" aria-selected="true" aria-controls="tab-agendar" id="tab-btn-agendar" data-tab="agendar">Agendar</button>
-                <button type="button" class="modal-tab" role="tab" aria-selected="false" aria-controls="tab-cadastrar" id="tab-btn-cadastrar" data-tab="cadastrar">Cadastro do Cliente</button>
+                <button type="button" class="modal-tab is-active" role="tab" aria-selected="true"
+                    aria-controls="tab-agendar" id="tab-btn-agendar" data-tab="agendar">Agendar</button>
+                <button type="button" class="modal-tab" role="tab" aria-selected="false" aria-controls="tab-cadastrar"
+                    id="tab-btn-cadastrar" data-tab="cadastrar">Cadastro do Cliente</button>
             </div>
             <div class="modal-body">
-                <div class="modal-panel is-active" role="tabpanel" id="tab-agendar" aria-labelledby="tab-btn-agendar" data-panel="agendar">
+                <div class="modal-panel is-active" role="tabpanel" id="tab-agendar" aria-labelledby="tab-btn-agendar"
+                    data-panel="agendar">
                     <p class="modal-text">Para agendar mais rápido, fale conosco pelo WhatsApp ou ligue.</p>
                     <div class="modal-actions">
                         <a href="tel:+258861661018" class="btn btn-primary">📞 Ligar Agora</a>
@@ -322,7 +336,8 @@
                     </div>
                 </div>
 
-                <div class="modal-panel" role="tabpanel" id="tab-cadastrar" aria-labelledby="tab-btn-cadastrar" data-panel="cadastrar">
+                <div class="modal-panel" role="tabpanel" id="tab-cadastrar" aria-labelledby="tab-btn-cadastrar"
+                    data-panel="cadastrar">
                     <form class="form" id="client-register-form">
                         <div class="form-grid">
                             <div class="form-field">
@@ -351,7 +366,8 @@
                             </div>
                             <div class="form-field">
                                 <label for="client-phoneNumber">Contacto</label>
-                                <input id="client-phoneNumber" name="phoneNumber" type="tel" inputmode="numeric" pattern="[0-9]{9}" maxlength="9" required>
+                                <input id="client-phoneNumber" name="phoneNumber" type="tel" inputmode="numeric"
+                                    pattern="[0-9]{9}" maxlength="9" required>
                             </div>
                             <div class="form-field form-field--checkbox">
                                 <label class="checkbox">
@@ -363,7 +379,8 @@
 
                         <div class="form-footer">
                             <button type="submit" class="btn btn-primary">Enviar Cadastro</button>
-                            <p class="form-hint" id="client-register-hint">O cadastro será enviado via WhatsApp para a clínica.</p>
+                            <p class="form-hint" id="client-register-hint">O cadastro será enviado via WhatsApp para a
+                                clínica.</p>
                         </div>
                     </form>
                 </div>
@@ -373,4 +390,5 @@
 
     <script src="script.js"></script>
 </body>
+
 </html>
