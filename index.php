@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Consultório Clínico Saúde e Vida Longa | Emagreça Sem Dieta Developer</title>
+    <title>Consultório Clínico Saúde e Vida Longa | Emagreça Sem Dieta Developer v2</title>
     <meta name="description"
         content="Emagreça sem dieta e sem exercícios físicos! Programa de emagrecimento definitivo com acompanhamento clínico profissional em Quelimane.">
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -21,12 +21,12 @@
             <nav class="navbar">
                 <a href="#" class="logo">
                     <img src="images/logo-icon.png" alt="Logo Saúde e Vida Longa">
-                    <span class="logo-text">Saúde e Vida Longa</span>
+                    <span class="logo-text">Saúde e Vida Longa v2</span>
                 </a>
                 <ul class="nav-menu">
-                    <li><a href="#inicio" class="nav-link">Início</a></li>
-                    <li><a href="#sobre" class="nav-link">Sobre</a></li>
-                    <li><a href="#beneficios" class="nav-link">Benefícios</a></li>
+                    <li><a href="#inicio" class="nav-link">Início v2</a></li>
+                    <li><a href="#sobre" class="nav-link">Sobre v2</a></li>
+                    <li><a href="#beneficios" class="nav-link">Benefícios v2</a></li>
                     <li><a href="#contato" class="nav-link">Contato</a></li>
                 </ul>
                 <a href="tel:+258861661018" class="btn btn-primary">Ligar Agora</a>
