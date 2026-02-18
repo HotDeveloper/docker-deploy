@@ -120,7 +120,7 @@
                     </div>
                 </div>
                 <div class="about-text">
-                    <span class="section-label">Sobre Nós Developer</span>
+                    <span class="section-label">Sobre Nós Developer v2</span>
                     <h2 class="section-title">Sua Saúde em <span class="highlight">Boas Mãos</span></h2>
                     <p class="about-description">
                         O <strong>Consultório Clínico Saúde e Vida Longa</strong> é dedicado a ajudar você a alcançar
