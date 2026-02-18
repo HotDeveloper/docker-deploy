@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Consultório Clínico Saúde e Vida Longa | Emagreça Sem Dieta</title>
+    <title>Consultório Clínico Saúde e Vida Longa | Emagreça Sem Dieta Developer</title>
     <meta name="description"
         content="Emagreça sem dieta e sem exercícios físicos! Programa de emagrecimento definitivo com acompanhamento clínico profissional em Quelimane.">
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -120,7 +120,7 @@
                     </div>
                 </div>
                 <div class="about-text">
-                    <span class="section-label">Sobre Nós</span>
+                    <span class="section-label">Sobre Nós Developer</span>
                     <h2 class="section-title">Sua Saúde em <span class="highlight">Boas Mãos</span></h2>
                     <p class="about-description">
                         O <strong>Consultório Clínico Saúde e Vida Longa</strong> é dedicado a ajudar você a alcançar
@@ -153,7 +153,7 @@
     <section id="beneficios" class="benefits">
         <div class="container">
             <div class="section-header">
-                <span class="section-label">Benefícios</span>
+                <span class="section-label">Benefícios developer</span>
                 <h2 class="section-title">Por que Escolher o Nosso <span class="highlight">Programa?</span></h2>
                 <p class="section-subtitle">Descubra as vantagens de emagrecer com acompanhamento profissional</p>
             </div>
