@@ -1,9 +1,25 @@
-version: "3.9"
+version: "3.8"
+
 services:
-  web:
+  clinica-app:
     build: .
-    container_name: clinica-system-app-v3
-    ports:
-      - "80:80"
-    # REMOVA A LINHA DE VOLUMES
+    container_name: clinica-system-app-updated
     restart: always
+    ports:
+      - "8000:80"  # Usando 8000 na VPS para evitar conflito com 80/81
+    environment:
+      - DB_HOST=global-mysql
+      - DB_NAME=clinica_db
+      - DB_USER=root
+      - DB_PASS=Siv@devs2k26
+    volumes:
+      # Sincroniza o código da pasta atual com o container
+      - .:/var/www/html
+      # Volume para uploads ou logs persistentes, se necessário
+      - ./storage:/var/www/html/storage
+    networks:
+      - siva-network
+
+networks:
+  siva-network:
+    external: true

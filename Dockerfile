@@ -1,5 +1,18 @@
 FROM php:8.2-apache
-RUN echo "ServerName localhost" >> /etc/apache2/apache2.conf
+
+# Instalar extensões e dependências
+RUN apt-get update && apt-get install -y \
+    libpq-dev \
+    libpng-dev \
+    libzip-dev \
+    zip \
+    && docker-php-ext-install pdo pdo_mysql pdo_pgsql zip gd
+
+# Ativar Rewrite do Apache
+RUN a2enmod rewrite
+
+# Definir diretório de trabalho
 WORKDIR /var/www/html
-COPY . /var/www/html/
-RUN chown -R www-data:www-data /var/www/html && chmod -R 755 /var/www/html
+
+# Ajustar permissões (essencial para o Apache escrever em logs/uploads)
+RUN chown -R www-data:www-data /var/www/html
